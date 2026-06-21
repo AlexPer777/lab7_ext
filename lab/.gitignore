@@ -1,0 +1,13 @@
+/target/
+/lab-client/target/
+/lab-common/target/
+/lab-server/target/
+*.iml
+.idea
+*.jar
+.env
+.env.*
+!.env.example
+logs/
+*.log
+${sys:log.dir}/

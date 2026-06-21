@@ -1,0 +1,3 @@
+ssh -p 2222 sxxxxxx@helios.cs.ifmo.ru -Lport:localhost:port - прокидывание портов
+
+https://github.com/zavar152/prog-archetype

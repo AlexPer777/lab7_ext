@@ -1,0 +1,225 @@
+[
+  {
+    "id": "1bf8a30e-f05a-4d3e-b59a-6ae18384cb3b",
+    "name": "Alex",
+    "coordinates": {
+      "x": 67,
+      "y": 67
+    },
+    "creationDate": "2026-04-23T19:00:41.313092",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 67,
+    "weaponType": "AXE",
+    "mood": "SORROW",
+    "car": {
+      "name": "myu",
+      "cool": true
+    }
+  },
+  {
+    "id": "1bc3946e-abea-4770-a55d-4cd7f715d2ba",
+    "name": "Alex",
+    "coordinates": {
+      "x": 67,
+      "y": 67
+    },
+    "creationDate": "2026-04-23T19:00:41.320783",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 67,
+    "weaponType": "AXE",
+    "mood": "SORROW",
+    "car": {
+      "name": "myu",
+      "cool": true
+    }
+  },
+  {
+    "id": "47aca6a1-62ce-4746-846a-8269bf89c8e8",
+    "name": "Astra",
+    "coordinates": {
+      "x": 12,
+      "y": 940
+    },
+    "creationDate": "2026-04-22T10:10",
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 150,
+    "weaponType": "RIFLE",
+    "mood": "CALM",
+    "car": {
+      "name": "Nebula",
+      "cool": true
+    }
+  },
+  {
+    "id": "acb6d69b-98cf-4646-8245-5ee31553bbca",
+    "name": "Borey",
+    "coordinates": {
+      "x": -45,
+      "y": 12
+    },
+    "creationDate": "2026-04-21T19:42:11",
+    "realHero": false,
+    "hasToothpick": true,
+    "impactSpeed": 18,
+    "weaponType": "HAMMER",
+    "mood": "SORROW",
+    "car": {
+      "name": "DriftX",
+      "cool": false
+    }
+  },
+  {
+    "id": "85097cfd-990b-4bb3-9ebe-961454b94895",
+    "name": "Carrot",
+    "coordinates": {
+      "x": 55,
+      "y": 55
+    },
+    "creationDate": "2026-04-29T15:21:21.834757",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 55,
+    "weaponType": "AXE",
+    "mood": "SORROW",
+    "car": {
+      "name": "CarrotCar",
+      "cool": true
+    }
+  },
+  {
+    "id": "612f4100-3516-45e0-ab53-9c4fb9b73fa4",
+    "name": "Cyra",
+    "coordinates": {
+      "x": 333,
+      "y": 444
+    },
+    "creationDate": "2026-04-20T08:15:30",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 910,
+    "weaponType": "PISTOL",
+    "mood": "RAGE"
+  },
+  {
+    "id": "24ccc7f4-e035-4a7b-9dbd-0d6a0913c406",
+    "name": "Dex",
+    "coordinates": {
+      "x": 0,
+      "y": 1
+    },
+    "creationDate": "2026-04-19T22:07:05",
+    "realHero": false,
+    "hasToothpick": false,
+    "weaponType": "KNIFE",
+    "car": {
+      "name": "Rookie",
+      "cool": false
+    }
+  },
+  {
+    "id": "17da0fbc-80de-481a-ba88-4a627998a15d",
+    "name": "Echo",
+    "coordinates": {
+      "x": 77,
+      "y": 321
+    },
+    "creationDate": "2026-04-18T14:59:59",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 67,
+    "weaponType": "AXE",
+    "mood": "CALM",
+    "car": {
+      "name": "Pulse",
+      "cool": true
+    }
+  },
+  {
+    "id": "1d079279-0505-4113-8f08-ca1cd4b7f7a3",
+    "name": "Frost",
+    "coordinates": {
+      "x": -128,
+      "y": 9100
+    },
+    "creationDate": "2026-04-17T06:40",
+    "realHero": true,
+    "hasToothpick": false,
+    "impactSpeed": 1200,
+    "weaponType": "RIFLE",
+    "mood": "SORROW",
+    "car": {
+      "name": "IceRunner",
+      "cool": true
+    }
+  },
+  {
+    "id": "4016a7f3-e85f-42a8-9d60-4fd5b4e7cd94",
+    "name": "Glim",
+    "coordinates": {
+      "x": 999,
+      "y": 555
+    },
+    "creationDate": "2026-04-16T03:03:03",
+    "realHero": false,
+    "hasToothpick": true,
+    "impactSpeed": 305,
+    "weaponType": "PISTOL",
+    "mood": "RAGE",
+    "car": {
+      "name": "Volt",
+      "cool": false
+    }
+  },
+  {
+    "id": "16da8c03-fe53-4093-b486-2ca231ecdc9f",
+    "name": "Helix",
+    "coordinates": {
+      "x": -7,
+      "y": 2048
+    },
+    "creationDate": "2026-04-15T11:11:11",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 451,
+    "weaponType": "HAMMER",
+    "mood": "CALM"
+  },
+  {
+    "id": "88536d70-72ac-4c0f-a780-4550a919c6d5",
+    "name": "Iris",
+    "coordinates": {
+      "x": 55,
+      "y": 89
+    },
+    "creationDate": "2026-04-14T17:26:40",
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 2,
+    "weaponType": "KNIFE",
+    "car": {
+      "name": "Mint",
+      "cool": true
+    }
+  },
+  {
+    "id": "8fe73c3d-4881-46b9-bd8a-9a1ef0d61ada",
+    "name": "Juno",
+    "coordinates": {
+      "x": 420,
+      "y": 777
+    },
+    "creationDate": "2026-04-13T09:00",
+    "realHero": true,
+    "hasToothpick": true,
+    "impactSpeed": 777,
+    "weaponType": "AXE",
+    "mood": "RAGE",
+    "car": {
+      "name": "Scarlet",
+      "cool": true
+    }
+  }
+]

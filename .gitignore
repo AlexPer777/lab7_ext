@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+*.iml
+*.log
+logs/
+${sys:log.dir}/
+
+lab/.env
+lab/.env.*
+!lab/.env.example
+lab/lab-client/target/
+lab/lab-common/target/
+lab/lab-server/target/

@@ -1,0 +1,15 @@
+add
+Alex
+67
+67
+true
+true
+67
+axe
+sorrow
+myu
+true
+save
+info
+show
+execute_script script.txt
