@@ -1,6 +1,6 @@
 # Лабораторная работа №7 — Программирование
 
-Многопоточное клиент-серверное приложение для управления коллекцией объектов `HumanBeing` с хранением в PostgreSQL, регистрацией пользователей и разграничением прав доступа. Продолжение [лабораторной работы №6](https://github.com/AlexPer777/lab6_ext).
+Многопоточное клиент-серверное приложение для управления коллекцией объектов `HumanBeing` с хранением в PostgreSQL, регистрацией пользователей и разграничением прав доступа. Продолжение [лабораторной работы №6](https://github.com/AlexPer777/lab6_java).
 
 **Курс:** 2-й семестр, весна.  
 **Протокол:** TCP (Transmission Control Protocol).  
@@ -88,7 +88,7 @@
 Нужны JDK 21, Maven 3 и доступная база PostgreSQL.
 
 ```bash
-git clone https://github.com/AlexPer777/lab7_ext.git lab7_java
+git clone https://github.com/AlexPer777/lab7_java.git lab7_java
 cd lab7_java/lab
 mvn clean package
 ```
