@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>aleksei.lab</groupId>
-		<artifactId>lab</artifactId>
+		<artifactId>lab7_java</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>lab-common</artifactId>
@@ -52,3 +52,4 @@
 	</dependencies>
 
 </project>
+
